@@ -1,2 +1,2 @@
-# hello-world write a bit about yourself
+# hello-world
 first
